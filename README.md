@@ -1,5 +1,5 @@
 # Stress Measuring Device
-The project was realized by a team of five second semester students at University of Sauthern Denmark, studying electronics engineering. At the beginning of the semester, we had a meeting, where we distributed the tasks, so each of us had been working on a different part of the project, from enclosure design to PCB design and programming. The final report was a compilation of parts written by each of us about what we worked on. In addition, we had to write the introduction and end.  
+The project was realized by a team of five second semester students at University of Southern Denmark, studying electronics engineering. At the beginning of the semester, we had a meeting, where we distributed the tasks, so each of us had been working on a different part of the project, from enclosure design to PCB design and programming. The final report was a compilation of parts written by each of us about what we worked on. In addition, we had to write the introduction and end.  
 
 The Gantt chart was used to showcase the project timeline and to make sure we as a team are in time to finalize the project within the given timeframe. It can be seen in the following picture:
 
