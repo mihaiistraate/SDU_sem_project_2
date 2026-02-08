@@ -19,10 +19,10 @@ For designing the PCB, KiCad was used and we generated a schematic and a PCB lay
 
 One of the requirements was to design the stress measuring device with the UN’s Sustainable Development Goals in mind.
 
-The whole aim of the project is aimed at one of the goals itself, goal number 3 – good health and well-being. Since the goal of the stress measuring device is to help the user get more relaxed in a given situation of a public speech, it can be a helpful tool to preserve one’s health.
+The whole aim of the project is aimed at one of the goals itself, goal number three: good health and well-being. Since the goal of the stress measuring device is to help the user get more relaxed in a given situation of a public speech, it can be a helpful tool to preserve one’s health.
 
-Another goal kept in front of our eyes was goal number 5 – gender equality. The product was designed to be used by both genders, providing no difference between the apparel or the functionality of the product. Furthermore, during the testing phase, the device was tried by both genders, to make sure that it suits and fits everybody, hence, giving equal rights to everybody.
+Another goal kept in front of our eyes was goal number five: gender equality. The product was designed to be used by both genders, providing no difference between the apparel or the functionality of the product. Furthermore, during the testing phase, the device was tried by both genders, to make sure that it suits and fits everybody, hence, giving equal rights to everybody.
 
-Furthermore, it was desirable to produce as little waste as possible during the manufacturing and testing processes, in order to comply with goal number 12 – responsible production and consumption.
+Furthermore, it was desirable to produce as little waste as possible during the manufacturing and testing processes, in order to comply with goal number 12: responsible production and consumption.
 
-Last but not least, the group was a multicultural team, consisting of members from different religious and cultural backgrounds. Despite these differences, we managed to work effectively as a group, just as goal number 17 describes it – partnerships for the goals.
+Last but not least, the group was a multicultural team, consisting of members from different religious and cultural backgrounds. Despite these differences, we managed to work effectively as a group, just as goal number 17 describes it: partnerships for the goals.
